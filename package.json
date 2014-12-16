@@ -12,6 +12,5 @@
   "scripts": { "test": "NODE_PATH=./lib mocha --ui exports" },
   "devDependencies": {
     "mocha": "0.12.x"
-  },
-  "engines": { "node": "0.6.x" }
+  }
 }
