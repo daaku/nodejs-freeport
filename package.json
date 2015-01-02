@@ -1,7 +1,7 @@
 {
   "name": "freeport",
   "description": "Find a free port.",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "homepage": "https://github.com/daaku/nodejs-freeport",
   "author": "Naitik Shah <n@daaku.org>",
   "main": "lib/freeport",
