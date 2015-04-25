@@ -4,7 +4,8 @@ freeport [![Build Status](https://secure.travis-ci.org/daaku/nodejs-freeport.png
 Find a free port.
 
 ```javascript
-freeport(function(er, port) {
-  ...
+freeport(function(err, port) {
+  if (err) throw err
+  console.log(port)
 })
 ```
