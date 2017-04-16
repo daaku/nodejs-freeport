@@ -5,6 +5,7 @@
   "homepage": "https://github.com/daaku/nodejs-freeport",
   "author": "Naitik Shah <n@daaku.org>",
   "main": "lib/freeport",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/daaku/nodejs-freeport"
